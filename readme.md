@@ -19,7 +19,7 @@
 
 <span align="center">
   
-**`Desenvolvedor FrontEnd-UI/UX`**
+**`FrontEnd Developer-UI/UX`**
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxdezan/)
 
