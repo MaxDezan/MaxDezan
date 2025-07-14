@@ -1,16 +1,16 @@
-<table>
-  <tr>
-    <td width="300px" align="left">
+<table align="center" border="0">
+  <tr border="0">
+    <td align="left" border="0">
       <a href="https://picrew.me/en/image_maker/2548086">
         <img 
           alt="chibi max" 
           title="Créditos picrew" 
           src="picrewmax2.png"
-          width="600px"
+          width="400px"
         />
       </a>
     </td>
-    <td align="left" valign="top">
+    <td align="center">
       
 # 🎨 Max Dezan
 
@@ -25,7 +25,6 @@
 <br/>
 
 <h2 align="center">🤖 Linguagens e Tecnologias</h2>
-
 <p align="center">
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   &nbsp;
@@ -43,7 +42,7 @@
 <br/>
 
 <h2 align="center">📊 Estatísticas</h2>
-
+<br/>
 <p align="center">
   <img 
     alt="GitHub Stats" 
