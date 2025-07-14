@@ -12,7 +12,7 @@
     </td>
     <td align="left" valign="top">
       
-## 🎨 Max Dezan
+# 🎨 Max Dezan
 
 **`Desenvolvedor FrontEnd-UI/UX`**
 
