@@ -5,7 +5,7 @@
         <img 
           alt="chibi max" 
           title="Créditos picrew" 
-          src="assets/picrewmax2.png"
+          src="picrewmax2.png"
           width="600px"
         />
       </a>
