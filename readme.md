@@ -27,7 +27,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <p align="center">
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -45,20 +45,20 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Status 
 
 <p align="center">
   <img 
     alt="GitHub Stats" 
     height="180" 
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=MaxDezan&show_icons=true&theme=tokyonight&include_all_commits=true&local=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=MaxDezan&show_icons=true&theme=tokyonight&include_all_commits=true&local=eng"
   />
   &nbsp;&nbsp;
   <img 
     alt="Top Langs" 
     height="180"
     width="360"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDezan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDezan&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
   />
 </p>
