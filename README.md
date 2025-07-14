@@ -6,7 +6,7 @@
           alt="chibi max" 
           title="Créditos picrew" 
           src="assets/picrewmax2.png"
-          width="300px"
+          width="600px"
         />
       </a>
     </td>
@@ -48,12 +48,14 @@
   <img 
     alt="GitHub Stats" 
     height="180" 
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=MaxDezan&show_icons=true&theme=tokyonight&include_all_commits=true&local=pt-br"
   />
   &nbsp;&nbsp;
   <img 
     alt="Top Langs" 
-    height="180" 
+    height="180"
+    width="360"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDezan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
