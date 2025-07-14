@@ -1,30 +1,34 @@
-<table align="center" border="0">
-  <tr border="0">
-    <td align="left" border="0">
-      <a href="https://picrew.me/en/image_maker/2548086">
-        <img 
-          alt="chibi max" 
-          title="Créditos picrew" 
-          src="picrewmax2.png"
-          width="400px"
-        />
-      </a>
-    </td>
-    <td align="center">
-      
+<p align="center">
+  <a href="https://picrew.me/en/image_maker/2548086">
+    <img 
+      src="picrewmax2.png" 
+      width="300px" 
+      alt="chibi max" 
+      title="Créditos picrew"
+    />
+  </a>
+</p>
+
 # 🎨 Max Dezan
 
-**`Desenvolvedor FrontEnd-UI/UX`**
+<p align="left">
+  Hi! My name is Max Dezan, I´m 19 and a beginner FrontEnd Developer. 
+  My goal is to become a professional UI/UX Designer, but by now i am focusing on Webpages Development. Im currently at my 2nd semester at 
+  Systems Development major, and now working mainly on my Persona 5 wiki project which is pinned on my profile here!
+</p>
 
+<span align="center">
+  
+**`Desenvolvedor FrontEnd-UI/UX`**
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxdezan/)
 
-  </td>
-  </tr>
-</table>
+</span>
 
-<br/>
+---
 
-<h2 align="center">🤖 Linguagens e Tecnologias</h2>
+### 🤖 Linguagens e Tecnologias
+
 <p align="center">
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   &nbsp;
@@ -39,15 +43,15 @@
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </p>
 
-<br/>
+---
 
-<h2 align="center">📊 Estatísticas</h2>
-<br/>
+### 📊 Estatísticas
+
 <p align="center">
   <img 
     alt="GitHub Stats" 
     height="180" 
-    width="400"
+    width="390"
     src="https://github-readme-stats.vercel.app/api?username=MaxDezan&show_icons=true&theme=tokyonight&include_all_commits=true&local=pt-br"
   />
   &nbsp;&nbsp;
