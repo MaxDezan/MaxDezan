@@ -12,9 +12,9 @@
 # 🎨 Max Dezan
 
 <p align="left">
-  Hi! My name is Max Dezan, I´m 19 and a beginner FrontEnd Developer. 
-  My goal is to become a professional UI/UX Designer, but by now i am focusing on Webpages Development. Im currently at my 2nd semester at 
-  Systems Development major, and now working mainly on my Persona 5 wiki project which is pinned on my profile here!
+  Hi! My name is Max Dezan, I´m 20 and a beginner Full Stack Developer. 
+  My goal is to become a professional UI/UX Designer, but by now i am focusing on learning Java. Im currently at my 2nd semester at 
+  Systems Development major.
 </p>
 
 <span align="center">
