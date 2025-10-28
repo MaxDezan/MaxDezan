@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://picrew.me/en/image_maker/2548086">
     <img 
       src="picrewmax2.png" 
@@ -7,7 +7,7 @@
       title="Créditos picrew"
     />
   </a>
-</p>
+</p> -->
 
 # 🎨 Max Dezan
 
