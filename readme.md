@@ -9,7 +9,7 @@
   </a>
 </p> 
 
-# 🎨 Max Dezan
+# 🎨👾 Max Dezan
 
 <p align="left">
   Hi! My name is Max Dezan, I´m 20 and a beginner Full Stack Developer. 
