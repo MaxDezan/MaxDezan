@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
   <a href="https://picrew.me/en/image_maker/2548086">
     <img 
       src="picrewmax2.png" 
@@ -7,13 +7,13 @@
       title="Créditos picrew"
     />
   </a>
-</p> -->
+</p> 
 
 # 🎨 Max Dezan
 
 <p align="left">
   Hi! My name is Max Dezan, I´m 20 and a beginner Full Stack Developer. 
-  My goal is to become a professional UI/UX Designer, but by now i am focusing on learning Java. Im currently at my 2nd semester at 
+  My goal is to become a professional UI/UX Designer, but for now i am focusing on learning Java and OOP. Im currently at my 2nd semester at 
   Systems Development major.
 </p>
 
