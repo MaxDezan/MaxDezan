@@ -47,7 +47,7 @@
   <img alt="Csharp" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </p>
 
----
+<!-- ---
 
 ### 📊 Status 
 
@@ -66,3 +66,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDezan&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
   />
 </p>
+-->
