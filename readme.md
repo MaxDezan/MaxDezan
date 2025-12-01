@@ -49,7 +49,7 @@
   <img alt="DotNet" title=".net" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img alt="PostgreSQL" title="pgsql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   </p>
-<!-- ---
+
 
 ### 📊 Status 
 
@@ -68,4 +68,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDezan&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
   />
 </p>
--->
+
