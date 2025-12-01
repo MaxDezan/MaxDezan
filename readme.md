@@ -56,8 +56,8 @@
 <p align="center">
   <img 
     src = "azumanga.gif" 
-    width = "500px"
-    height = "200px"
+    width = "600px"
+    height = "150px"
     alt="azumanga gif" 
     />
 </p>
