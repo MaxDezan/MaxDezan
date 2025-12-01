@@ -48,15 +48,16 @@
   <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img alt="DotNet" title=".net" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img alt="PostgreSQL" title="pgsql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Photoshop" title="pshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   </p>
-
 
 ---
 
 <p align="center">
   <img 
     src = "azumanga.gif" 
-    width = "200px"
+    width = "500px"
+    height = "200px"
     alt="azumanga gif" 
     />
 </p>
