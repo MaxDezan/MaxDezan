@@ -51,21 +51,13 @@
   </p>
 
 
-### 📊 Status 
+---
 
 <p align="center">
   <img 
-    alt="GitHub Stats" 
-    height="180" 
-    width="390"
-    src="https://github-readme-stats.vercel.app/api?username=MaxDezan&show_icons=true&theme=tokyonight&include_all_commits=true&local=eng"
-  />
-  &nbsp;&nbsp;
-  <img 
-    alt="Top Langs" 
-    height="180"
-    width="360"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDezan&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
-  />
+    src = "azumanga.gif" 
+    width = "200px"
+    alt="azumanga gif" 
+    />
 </p>
 
